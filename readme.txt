@@ -1,10 +1,29 @@
-Designed by Zerotheme
-Website : http://www.zerotheme.com
-Zerogrid System for Responsive Design - http://www.zerotheme.com/zerogrid-a-simple-grid-system-for-responsive-design
+# Zshop
+[![z](https://i.ibb.co/n6dv3Bn/Captura-de-pantalla-2023-09-14-235334.png "z")](https://ibb.co/0m4SBKF "z")
 
-/*----License----*/
-+ You have the rights to use the resources for personal and commercial project(s) purposes.
-+ You are not allowed to remove back link at the footer in template. You should contact us about this. http://www.zerotheme.com/contact-us
-+ You are allowed to remove back link with basic templates. You can find basic templates at http://www.zerotheme.com/free-basic-responsive-html5-themes
-+ You can not resell, redistribute, license, or sub-license any of the templates without direct permission from Zerotheme.com.
-+ You are not allowed to provide direct link to download or preview template. You must link back to Zerotheme template page where users can find the download and preview template.
+
+## Despliegue:
+
+-https://neyryvargasd.github.io/zshop-2/index.html
+
+## Descripción del proyecto
+
+En esta landing page se encontrará el diseño de la pagina de ropa zshop.
+
+## Estado del proyecto
+
+- Proyecto finalizado
+ 
+## Stack
+
+ - Html
+ - Css
+
+
+
+## Acceso al proyecto
+
+- En el repositorio dirigirse al boton code de color azul que esta ubicado en la parte superior derecha y dar clic. En el despliegue de opciones dar clic en download ZIP. 
+[![git](https://i.ibb.co/ch4djjL/Captura-de-pantalla-2023-09-14-225756.png "git")](https://ibb.co/b5cnkkJ "git")
+
+
